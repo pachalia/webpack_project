@@ -1,0 +1,13 @@
+body {
+    background: rgba(147,206,222,1);
+}
+
+img {
+    max-width: 200px;
+    margin: auto;
+    display: block;
+}
+h1 {
+    color: red;
+    text-align: center;
+}
